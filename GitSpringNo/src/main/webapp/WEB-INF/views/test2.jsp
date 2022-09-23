@@ -20,8 +20,7 @@
 </head>
 <body>
 <div style="margin: 30px 30px;">
-<h1>hello!!!!!!!!!!!</h1>
-<h2>hello~~~</h2>
+
 </div>
 </body>
 </html>
